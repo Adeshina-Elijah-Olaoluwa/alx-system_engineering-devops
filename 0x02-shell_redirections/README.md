@@ -1,1 +1,1 @@
-Expansion project 0 is here
+This is task 0 project for I/O redirections
