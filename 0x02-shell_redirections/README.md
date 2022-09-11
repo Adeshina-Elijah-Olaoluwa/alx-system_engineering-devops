@@ -1,1 +1,1 @@
-Task 1 confused smiley task
+The task that prints the password dir
